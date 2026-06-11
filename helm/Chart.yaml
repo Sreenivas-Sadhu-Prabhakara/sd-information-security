@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-information-security
+description: "BIAN Service Domain: Information Security (Administer pattern, Risk and Compliance)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - administer
+annotations:
+  bian/business-area: "Risk and Compliance"
+  bian/business-domain: "Compliance"
+  bian/asset-type: "Security Policy"
+  bian/control-record: "Security Policy Administrative Plan"
